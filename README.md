@@ -1,1 +1,1 @@
-Just README
+# Simple ether.js
